@@ -54,11 +54,6 @@ Node.js & npm
 
 FFmpeg (Required for audio processing)
 
-Mac: brew install ffmpeg
-
-Windows: Download & Add to Path
-
-Google Gemini API Key: Get it here
 
 💿 Installation
 
